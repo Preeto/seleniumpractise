@@ -18,6 +18,6 @@ public class testnew {
 		//WebDriver driver = new FirefoxDriver();
 		//driver.get("http://demoqa.com/frames-and-windows/");
 		//driver.findElement(By.xpath(".//*[@id='tabs-1']/div/p/a")).click();
-		//driver.close();
+		driver.close();
 	}
 }
